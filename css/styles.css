@@ -30,7 +30,7 @@ html {
 
   /* Links */
   a {
-    color: #ffe66d;
+    color: #5E9DC8;
     text-decoration: none;
   }
   a:hover {
@@ -68,7 +68,7 @@ html {
 
   
   header h1 {
-    font-size: 100px;
+    font-size: 80px;
     line-height: 1;
     /* padding-top: 20px; */
   }
@@ -87,7 +87,7 @@ html {
   }
   .content-wrap {
     max-width: 800px;
-    width: 85%;
+    /* width: 85%; */
     margin: 0 auto;
     padding: 45px 0;
   }
@@ -95,17 +95,18 @@ html {
   /* Profile
   ----------------------------------- */
   header {
-    background: #2f3061;
+    background: #0C2C52;
     color: #f7fff7;
   }
   .intro {
     text-align: left;
+    color: #DCF0F7
   }
   
   /* Content
   ----------------------------------- */
   .body-content {
-    color: #343434;
+    color: #5F6B61;
   }
 
   .body-content h3 {
@@ -120,11 +121,22 @@ html {
   }
 
   .gallery-item {
-    width: 220px;
-    margin: 1px;
+    width: 200px;
+    margin: 15px;
     display: inline-block;
     vertical-align: top;
   }
+
+  /* .instagram-gallery {
+    /* text-align: center; */
+    /* min-width: 400px; */
+    /* width: 60%; */
+    /* display: inline; */
+    /* align-items: center; */
+    
+    /* width: 500px; */
+    /* ; */
+  /* } */
 
   /* Contact Info
   ----------------------------------- */
